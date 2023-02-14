@@ -1,0 +1,33 @@
+---
+title: "Kim"
+author: "K.Navarro-Velez"
+date: "2/14/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+center>
+# Kimberly
+</center>
+
+<br>
+
+
+## About me:   
+
+* I am from Colombia
+* I am a Ph.D. student in DNRE
+* I study birds ecology and conservation
+* I love learning about different cultures   
+* I love traveling   
+* I don't like heights!
+
+<center> ![](https://freeway.tur.br/userfiles/166128976.jpg){width=70%} 
+![](https://www.colombia-travels.com/wp-content/uploads/adobestock-266299444-1-1280x800.jpeg){width=70%} 
+![](https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2017/09/shutterstock_589177475.jpg){width=70%} 
+</center>
+
+<br>
