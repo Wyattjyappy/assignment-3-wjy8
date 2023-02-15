@@ -1,0 +1,8 @@
+---
+title: "Journal"
+author: "Wyatt"
+date: "2023-02-15"
+output: html_document
+---
+
+Overall I feel like I am getting pretty confident with Rstudio and how to organize data. I am still a big confused on the certain symbols and stuff I have have to enter in order for certain things to render properly. I would love to have a cheat sheet of all the symbols and stuff we have used thus far this semester, in order to help me better understand what I need to be using. But overall I am really enjoying this class and think it will be very useful in my future carear. 

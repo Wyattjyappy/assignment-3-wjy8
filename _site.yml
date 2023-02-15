@@ -7,3 +7,5 @@ navbar:
       href: wyatt.html
     - text: "Kimberly"
       href: kimberly.html  
+    - text: "Journal"
+      href: Journal.html 
